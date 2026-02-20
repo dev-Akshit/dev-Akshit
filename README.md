@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+MERN+Stack;Real-Time+Systems+%7C+AI+Integrations;Building+Scalable+Production+Applications" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/dev-Akshit">
-    <img src="https://komarev.com/ghpvc/?username=dev-Akshit&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 🧠 About Me
