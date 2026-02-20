@@ -1,12 +1,12 @@
 <h1 align="center">Akshit Deshwal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+MERN;Real-Time+Systems+%7C+AI+Integrations;Building+Scalable+Production+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+MERN+Stack;Real-Time+Systems+%7C+AI+Integrations;Building+Scalable+Production+Applications" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/dev-akshit">
-    <img src="https://komarev.com/ghpvc/?username=dev-akshit&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/dev-Akshit">
+    <img src="https://komarev.com/ghpvc/?username=dev-Akshit&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -16,16 +16,16 @@
 
 Full-Stack Developer with hands-on experience building scalable MERN stack applications, real-time systems, AI-powered platforms, and production-ready workflows.
 
-Strong foundation in:
+Core strengths include:
 
 - Frontend architecture (React, Next.js, TypeScript)
 - Backend systems (Node.js, Express)
 - Real-time communication (Socket.IO)
 - Background job processing (BullMQ + Redis)
-- Secure authentication & role-based access
+- Secure authentication & role-based access control
 - Software testing & system reliability
 
-I focus on building systems that are scalable, maintainable, and production-ready.
+I focus on designing scalable architectures, writing maintainable code, and building production-grade systems.
 
 ---
 
@@ -36,6 +36,8 @@ I focus on building systems that are scalable, maintainable, and production-read
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠 Backend & Infrastructure
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -44,6 +46,7 @@ I focus on building systems that are scalable, maintainable, and production-read
 ![Redis](https://img.shields.io/badge/Redis-D92C2C?style=for-the-badge&logo=redis&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-EF4444?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 
 ### 🧪 Testing & Dev Practices
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -55,37 +58,35 @@ I focus on building systems that are scalable, maintainable, and production-read
 ## 🚀 Highlight Projects
 
 ### 📄 Document Signing Platform
-- Secure role-based dashboards
-- Background processing with BullMQ
-- Bulk document workflows
-- Audit logging & strict access control
+- Secure role-based dashboards  
+- Background job processing using BullMQ  
+- Bulk document workflows  
+- Audit logging & strict access control  
 
 ### 🏢 Complaint Management System
-- AI-powered PDF data extraction
-- Real-time updates via Socket.IO
-- Structured analytics dashboards
+- AI-powered structured data extraction from handwritten PDFs  
+- Real-time updates via Socket.IO  
+- Interactive dashboards and analytics  
 
 ### 💬 Real-Time Chat Application
-- Authentication & image uploads
-- Instant messaging
-- Secure password reset
-- Persistent MongoDB storage
+- Authentication & profile management  
+- Instant messaging with Socket.IO  
+- Image uploads & secure password reset  
+- Persistent MongoDB storage  
 
 ---
 
-## 📈 Contribution Graph Animation (Snake)
+## 📈 Contributions
 
-Add this AFTER creating the snake workflow (explained below):
-
-![snake gif](https://github.com/dev-akshit/dev-akshit/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dev-Akshit/dev-Akshit/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/akshit-deshwal/  
-Email: a.deshwal2005@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/akshit-deshwal/
+- 📧 Email: a.deshwal2005@gmail.com
 
 ---
 
-Building scalable systems. Learning daily. Shipping production code.
+Building scalable systems. Learning continuously. Shipping production-ready code.
