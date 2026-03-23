@@ -70,12 +70,6 @@ I focus on designing scalable architectures, writing maintainable code, and buil
 
 ---
 
-## 📈 Contributions
-
-![snake gif](https://github.com/dev-Akshit/dev-Akshit/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/akshit-deshwal/
